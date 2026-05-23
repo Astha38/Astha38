@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Astha! 👋
 
-<!--
-**Astha38/Astha38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Technology student and Full-Stack Developer who loves building practical web applications, exploring backend architectures, and solving algorithmic challenges.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- 💻 Build full-stack applications using Node.js, Express, React, and MongoDB/SQLite.
+- 🧠 Solve Data Structures & Algorithms (DSA) problems in C++ and Python.
+- 👥 Collaborate on hackathon projects and team innovations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack & Tools
+- **Languages:** C++, Python, JavaScript, TypeScript
+- **Backend & DB:** Node.js, Express, Flask, Socket.io, MongoDB, SQLite
+- **Frontend:** HTML5, CSS3, React
+
+### 📊 My GitHub Stats
+![Astha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astha38&show_icons=true&theme=dark&hide_border=true)
+
+
