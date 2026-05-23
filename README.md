@@ -13,6 +13,6 @@ I am an Information Technology student and Full-Stack Developer who loves buildi
 - **Frontend:** HTML5, CSS3, React
 
 ### 📊 My GitHub Stats
-![Astha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astha38&show_icons=true&theme=dark&hide_border=true)
+![Astha's GitHub Stats](<img src="https://github-readme-stats.vercel.app/api?username=Astha38&show_icons=true&theme=dark&hide_border=true" alt="Astha's GitHub Stats" />)
 
 
