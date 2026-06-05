@@ -1,4 +1,4 @@
-Hii this is Astha Sapre
+**Hi, I'm Astha Sapre. Welcome to my GitHub space! 🚀**
 # 💫 About Me:
 🔭 I’m currently working on refining full-stack web applications, focusing on scalable architectures and performance optimization.<br><br>👯 I’m looking to collaborate on innovative open-source projects, hackathons, and dynamic full-stack web applications.<br><br>🤝 I’m looking for help with mastering advanced Data Structures & Algorithms, specifically optimizing complex pointer and array-based problems.<br><br>🌱 I’m currently learning advanced backend optimization, microservices architectures, and deep-diving into system design patterns.<br><br>💬 Ask me about React, Node.js/Express, MongoDB, building route optimizers, community building, or organizing high-energy campus events.<br><br>⚡ Fun fact I love balancing the logical rigor of writing code with the creative expression of Hindi literature and formal debating.
 
